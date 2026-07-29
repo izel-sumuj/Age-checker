@@ -1,7 +1,3 @@
-# Age-checker
-My second Code: Simple age-checker
-# Age Checker 🪐
-
 My second python code ever!! 
 
 ## Progress (Day 7)
@@ -12,4 +8,4 @@ Today is my 7th day learning python on my own with code with harry on youtube of
 * Indentation: Got stuck on a spacing error for a bit but figured out how indentation works in python lol.
 * Git: Created my second repository.
 
-Started on July 29, 2026 ✨
+  Date-26 july 2026
